@@ -1,3 +1,2 @@
-# python-docker-dev
+## Testing Github Actions (Push Image to Docker Hub)
 
-A simple Python app for [Docker's Python Language Guide](https://docs.docker.com/language/python).
